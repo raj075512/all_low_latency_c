@@ -12,3 +12,6 @@
 
 **COMPANY HFT**
 https://leetcode.com/discuss/compensation/4622899/200%2B-Company-Compensation-for-Freshers-at-Tier-1(IITs)/
+
+**MIX ALL**
+https://leetcode.com/discuss/interview-question/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-or-INTERVIEW-PREPARATION-or-STUDY-PLAN
