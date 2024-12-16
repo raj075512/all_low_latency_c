@@ -14,4 +14,5 @@
 https://leetcode.com/discuss/compensation/4622899/200%2B-Company-Compensation-for-Freshers-at-Tier-1(IITs)/
 
 **MIX ALL**
-https://leetcode.com/discuss/interview-question/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-or-INTERVIEW-PREPARATION-or-STUDY-PLAN
+1. https://leetcode.com/discuss/interview-question/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-or-INTERVIEW-PREPARATION-or-STUDY-PLAN
+2. https://drive.google.com/file/d/1-3ZqBFbG5AUMPi-PMRTATL1147h3-02B/view
