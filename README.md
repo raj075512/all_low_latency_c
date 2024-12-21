@@ -16,3 +16,6 @@ https://leetcode.com/discuss/compensation/4622899/200%2B-Company-Compensation-fo
 **MIX ALL**
 1. https://leetcode.com/discuss/interview-question/1098600/TOPICS-WHICH-YOU-CAN'T-SKIP-or-INTERVIEW-PREPARATION-or-STUDY-PLAN
 2. https://drive.google.com/file/d/1-3ZqBFbG5AUMPi-PMRTATL1147h3-02B/view
+
+**ALL DESIGN PATTERN IN C++**
+https://github.com/samyakmehta28/Low-Level-Design-Patterns/tree/master?tab=readme-ov-file#-acknowledgments
