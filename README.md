@@ -19,3 +19,9 @@ https://leetcode.com/discuss/compensation/4622899/200%2B-Company-Compensation-fo
 
 **ALL DESIGN PATTERN IN C++**
 https://github.com/samyakmehta28/Low-Level-Design-Patterns/tree/master?tab=readme-ov-file#-acknowledgments
+
+
+**Interview preperation**
+https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP20.md
+https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP17.md
+https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP14.md
