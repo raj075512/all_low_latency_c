@@ -29,3 +29,5 @@ https://github.com/samyakmehta28/Low-Level-Design-Patterns/tree/master?tab=readm
 
 3. https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP14.md
 
+4. https://github.com/kaarthic/interview-preparation/blob/master/C%2B%2B%20Interview%20Questions.md
+
