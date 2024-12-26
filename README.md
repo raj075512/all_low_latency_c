@@ -22,6 +22,10 @@ https://github.com/samyakmehta28/Low-Level-Design-Patterns/tree/master?tab=readm
 
 
 **Interview preperation**
-https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP20.md
-https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP17.md
-https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP14.md
+
+1. https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP20.md
+
+2. https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP17.md
+
+3. https://github.com/AnthonyCalandra/modern-cpp-features/blob/master/CPP14.md
+
